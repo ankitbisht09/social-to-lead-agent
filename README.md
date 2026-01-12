@@ -34,7 +34,7 @@ High-intent detection is prioritized so the agent can switch into lead capture m
 --
 
  2. RAG-Based Knowledge Retrieval
-The agent answers pricing and product questions using a *local knowledge base, which simulates a **Retrieval-Augmented Generation (RAG)* workflow.
+The agent answers pricing and product questions using a local knowledge base, which simulates a Retrieval-Augmented Generation (RAG) workflow.
 
 When a user asks about pricing:
 - Relevant product information is retrieved from predefined knowledge
@@ -79,7 +79,7 @@ Type exit to stop the conversation
 
 Demo Video
 
-https://youtu.be/awJvKIEe6o                                                                                                                                        
+[VIDEO LINK IS HERE](https://youtu.be/awJvKIEe6o)                                                                                                                                        
 
 A short demo video demonstrates:
 Pricing query handling using RAG
@@ -104,6 +104,7 @@ Controlled and safe tool execution
 Practical application of RAG and agentic design
 
 The same design can be extended to real-world deployments such as WhatsApp or web chat using webhooks.
+
 
 
 
