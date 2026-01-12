@@ -79,7 +79,8 @@ Type exit to stop the conversation
 
 Demo Video
 
- <a href="https://youtu.be/awJvKIEe6o">Click here</a>
+<a
+href="https://youtu.be/awJvKIEe6o">Click here</a>
 
 A short demo video demonstrates:
 Pricing query handling using RAG
@@ -104,6 +105,7 @@ Controlled and safe tool execution
 Practical application of RAG and agentic design
 
 The same design can be extended to real-world deployments such as WhatsApp or web chat using webhooks.
+
 
 
 
