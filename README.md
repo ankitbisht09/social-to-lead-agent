@@ -79,14 +79,13 @@ Type exit to stop the conversation
 
 Demo Video
 
-https://youtu.be/awJvKIEe6o
+ <a href="https://youtu.be/awJvKIEe6o">Click here</a>
 
 A short demo video demonstrates:
 Pricing query handling using RAG
 High-intent detection
 Multi-step lead information collection
 Successful tool execution
-(The demo video link is included in this repository.)
 
 Tools & Technologies Used
 
@@ -105,5 +104,6 @@ Controlled and safe tool execution
 Practical application of RAG and agentic design
 
 The same design can be extended to real-world deployments such as WhatsApp or web chat using webhooks.
+
 
 
